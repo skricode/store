@@ -9,8 +9,7 @@ app.use(express.json()); //allows us to accept json data from req.body by parsin
 //routes connectivity
 app.use("/api/products", productRoutes);
 
-//mongo connection
- //server connection
+// server & mongo connection
 const port = process.env.PORT || 5000;
 app.listen(port, ()=>{
     connectDB();
