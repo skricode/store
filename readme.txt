@@ -14,4 +14,9 @@ steps i have followed:
 2. delete unnecessary files
 3. add chakra Ui for UI designs
 4. add react-router-dom
-
+5. created header component (Navbar)
+6. add product page 
+7. installed (npm i zustand) for global state management like redux
+8. created store -> product.js file -> productStore 
+9. data fetch brom backend api by user and return to the orginal function call
+10. 
