@@ -19,4 +19,6 @@ steps i have followed:
 7. installed (npm i zustand) for global state management like redux
 8. created store -> product.js file -> productStore 
 9. data fetch brom backend api by user and return to the orginal function call
-10. 
+10. as it is done with deleteproduct & update products.
+11. Completed with CRUD operations on product (MERN)
+
